@@ -1,4 +1,4 @@
-## Problem
+## Issue
 
 -   `Pritter`: npm i -g Pritter
 
